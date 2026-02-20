@@ -1,6 +1,10 @@
 {
   "name": "mcp-cc-history",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/signal-slot/mcp-cc-history.git"
+  },
   "description": "MCP server for searching Claude Code history data",
   "type": "module",
   "main": "dist/index.js",
